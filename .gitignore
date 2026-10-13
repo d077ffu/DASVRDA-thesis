@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.npz
+*.binary
+*.png
+*.csv
+*.txt
+scikit_learn_data/
